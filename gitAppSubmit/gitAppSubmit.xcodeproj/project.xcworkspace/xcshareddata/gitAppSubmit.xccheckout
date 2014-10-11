@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4B338551-84C3-4169-BF0F-F278843E9431</string>
+	<key>IDESourceControlProjectName</key>
+	<string>gitAppSubmit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>D9DB11D2-6926-4C09-84BB-72C7D9852BBB</key>
+		<string>https://github.com/yangguojun/sdzyrepository.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>gitAppSubmit/gitAppSubmit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>D9DB11D2-6926-4C09-84BB-72C7D9852BBB</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/yangguojun/sdzyrepository.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>D9DB11D2-6926-4C09-84BB-72C7D9852BBB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>D9DB11D2-6926-4C09-84BB-72C7D9852BBB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>sdzyrepository</string>
+		</dict>
+	</array>
+</dict>
+</plist>
